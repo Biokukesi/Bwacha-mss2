@@ -1,0 +1,543 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Indotalent
+build_property.RootNamespace = Indotalent
+build_property.ProjectDir = /Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Companies/CompanyForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0NvbXBhbnlGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Companies/CompanyList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0NvbXBhbnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/CustomerCategories/CustomerCategoryForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJDYXRlZ29yaWVzL0N1c3RvbWVyQ2F0ZWdvcnlGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/CustomerCategories/CustomerCategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJDYXRlZ29yaWVzL0N1c3RvbWVyQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/CustomerContacts/CustomerContactForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJDb250YWN0cy9DdXN0b21lckNvbnRhY3RGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/CustomerContacts/CustomerContactList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJDb250YWN0cy9DdXN0b21lckNvbnRhY3RMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/CustomerGroups/CustomerGroupForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJHcm91cHMvQ3VzdG9tZXJHcm91cEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/CustomerGroups/CustomerGroupList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJHcm91cHMvQ3VzdG9tZXJHcm91cExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Customers/CustomerForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0N1c3RvbWVyRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Customers/CustomerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0N1c3RvbWVyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Dashboards/DefaultDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkcy9EZWZhdWx0RGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/DeliveryOrders/DeliveryOrderDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsaXZlcnlPcmRlcnMvRGVsaXZlcnlPcmRlckRvd25sb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/DeliveryOrders/DeliveryOrderForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsaXZlcnlPcmRlcnMvRGVsaXZlcnlPcmRlckZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/DeliveryOrders/DeliveryOrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsaXZlcnlPcmRlcnMvRGVsaXZlcnlPcmRlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/DeliveryOrders/DeliveryOrderPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsaXZlcnlPcmRlcnMvRGVsaXZlcnlPcmRlclBkZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/GoodsReceives/GoodsReceiveDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR29vZHNSZWNlaXZlcy9Hb29kc1JlY2VpdmVEb3dubG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/GoodsReceives/GoodsReceiveForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR29vZHNSZWNlaXZlcy9Hb29kc1JlY2VpdmVGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/GoodsReceives/GoodsReceiveList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR29vZHNSZWNlaXZlcy9Hb29kc1JlY2VpdmVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/GoodsReceives/GoodsReceivePdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR29vZHNSZWNlaXZlcy9Hb29kc1JlY2VpdmVQZGYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/InventoryMovements/InventoryMovementList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW52ZW50b3J5TW92ZW1lbnRzL0ludmVudG9yeU1vdmVtZW50TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/InventoryStocks/InventoryStockList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW52ZW50b3J5U3RvY2tzL0ludmVudG9yeVN0b2NrTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/InventoryTransactions/InventoryTransactionList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW52ZW50b3J5VHJhbnNhY3Rpb25zL0ludmVudG9yeVRyYW5zYWN0aW9uTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/LogAnalytics/LogAnalyticList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nQW5hbHl0aWNzL0xvZ0FuYWx5dGljTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/LogAnalytics/LogClearingForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nQW5hbHl0aWNzL0xvZ0NsZWFyaW5nRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/LogErrors/LogClearingForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nRXJyb3JzL0xvZ0NsZWFyaW5nRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/LogErrors/LogErrorList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nRXJyb3JzL0xvZ0Vycm9yTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/LogSessions/LogClearingForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nU2Vzc2lvbnMvTG9nQ2xlYXJpbmdGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/LogSessions/LogSessionList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9nU2Vzc2lvbnMvTG9nU2Vzc2lvbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/NegativeAdjustments/NegativeAdjustmentDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTmVnYXRpdmVBZGp1c3RtZW50cy9OZWdhdGl2ZUFkanVzdG1lbnREb3dubG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/NegativeAdjustments/NegativeAdjustmentForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTmVnYXRpdmVBZGp1c3RtZW50cy9OZWdhdGl2ZUFkanVzdG1lbnRGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/NegativeAdjustments/NegativeAdjustmentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTmVnYXRpdmVBZGp1c3RtZW50cy9OZWdhdGl2ZUFkanVzdG1lbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/NegativeAdjustments/NegativeAdjustmentPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTmVnYXRpdmVBZGp1c3RtZW50cy9OZWdhdGl2ZUFkanVzdG1lbnRQZGYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/NumberSequences/NumberSequenceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTnVtYmVyU2VxdWVuY2VzL051bWJlclNlcXVlbmNlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PositiveAdjustments/PositiveAdjustmentDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUG9zaXRpdmVBZGp1c3RtZW50cy9Qb3NpdGl2ZUFkanVzdG1lbnREb3dubG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PositiveAdjustments/PositiveAdjustmentForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUG9zaXRpdmVBZGp1c3RtZW50cy9Qb3NpdGl2ZUFkanVzdG1lbnRGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PositiveAdjustments/PositiveAdjustmentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUG9zaXRpdmVBZGp1c3RtZW50cy9Qb3NpdGl2ZUFkanVzdG1lbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PositiveAdjustments/PositiveAdjustmentPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUG9zaXRpdmVBZGp1c3RtZW50cy9Qb3NpdGl2ZUFkanVzdG1lbnRQZGYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/ProductGroups/ProductGroupForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdEdyb3Vwcy9Qcm9kdWN0R3JvdXBGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/ProductGroups/ProductGroupList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdEdyb3Vwcy9Qcm9kdWN0R3JvdXBMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Products/ProductForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvUHJvZHVjdEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Products/ProductList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHMvUHJvZHVjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseOrderItems/PurchaseOrderItemList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VPcmRlckl0ZW1zL1B1cmNoYXNlT3JkZXJJdGVtTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseOrders/PurchaseOrderDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VPcmRlcnMvUHVyY2hhc2VPcmRlckRvd25sb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseOrders/PurchaseOrderForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VPcmRlcnMvUHVyY2hhc2VPcmRlckZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseOrders/PurchaseOrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VPcmRlcnMvUHVyY2hhc2VPcmRlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseOrders/PurchaseOrderPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VPcmRlcnMvUHVyY2hhc2VPcmRlclBkZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseReturns/PurchaseReturnDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VSZXR1cm5zL1B1cmNoYXNlUmV0dXJuRG93bmxvYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseReturns/PurchaseReturnForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VSZXR1cm5zL1B1cmNoYXNlUmV0dXJuRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseReturns/PurchaseReturnList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VSZXR1cm5zL1B1cmNoYXNlUmV0dXJuTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/PurchaseReturns/PurchaseReturnPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHVyY2hhc2VSZXR1cm5zL1B1cmNoYXNlUmV0dXJuUGRmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesOrderItems/SalesOrderItemList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNPcmRlckl0ZW1zL1NhbGVzT3JkZXJJdGVtTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesOrders/SalesOrderDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNPcmRlcnMvU2FsZXNPcmRlckRvd25sb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesOrders/SalesOrderForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNPcmRlcnMvU2FsZXNPcmRlckZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesOrders/SalesOrderList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNPcmRlcnMvU2FsZXNPcmRlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesOrders/SalesOrderPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNPcmRlcnMvU2FsZXNPcmRlclBkZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesReturns/SalesReturnDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNSZXR1cm5zL1NhbGVzUmV0dXJuRG93bmxvYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesReturns/SalesReturnForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNSZXR1cm5zL1NhbGVzUmV0dXJuRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesReturns/SalesReturnList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNSZXR1cm5zL1NhbGVzUmV0dXJuTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/SalesReturns/SalesReturnPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2FsZXNSZXR1cm5zL1NhbGVzUmV0dXJuUGRmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Scrappings/ScrappingDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyYXBwaW5ncy9TY3JhcHBpbmdEb3dubG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Scrappings/ScrappingForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyYXBwaW5ncy9TY3JhcHBpbmdGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Scrappings/ScrappingList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyYXBwaW5ncy9TY3JhcHBpbmdMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Scrappings/ScrappingPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NyYXBwaW5ncy9TY3JhcHBpbmdQZGYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/AdminLTE/_Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0FkbWluTFRFL19BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/AdminLTE/_Auth.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0FkbWluTFRFL19BdXRoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/AdminLTE/__css.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0FkbWluTFRFL19fY3NzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/AdminLTE/__footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0FkbWluTFRFL19fZm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/AdminLTE/__js.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0FkbWluTFRFL19fanMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/AdminLTE/__navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0FkbWluTFRFL19fbmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/AdminLTE/__sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL0FkbWluTFRFL19fc2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19TdGF0dXNNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/__css.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19fY3NzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Shared/__js.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19fanMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/StockCounts/StockCountDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RvY2tDb3VudHMvU3RvY2tDb3VudERvd25sb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/StockCounts/StockCountForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RvY2tDb3VudHMvU3RvY2tDb3VudEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/StockCounts/StockCountList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RvY2tDb3VudHMvU3RvY2tDb3VudExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/StockCounts/StockCountPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3RvY2tDb3VudHMvU3RvY2tDb3VudFBkZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Taxes/TaxForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4ZXMvVGF4Rm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Taxes/TaxList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGF4ZXMvVGF4TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/TransferIns/TransferInDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNmZXJJbnMvVHJhbnNmZXJJbkRvd25sb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/TransferIns/TransferInForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNmZXJJbnMvVHJhbnNmZXJJbkZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/TransferIns/TransferInList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNmZXJJbnMvVHJhbnNmZXJJbkxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/TransferIns/TransferInPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNmZXJJbnMvVHJhbnNmZXJJblBkZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/TransferOuts/TransferOutDownload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNmZXJPdXRzL1RyYW5zZmVyT3V0RG93bmxvYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/TransferOuts/TransferOutForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNmZXJPdXRzL1RyYW5zZmVyT3V0Rm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/TransferOuts/TransferOutList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNmZXJPdXRzL1RyYW5zZmVyT3V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/TransferOuts/TransferOutPdf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNmZXJPdXRzL1RyYW5zZmVyT3V0UGRmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/UnitMeasures/UnitMeasureForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVW5pdE1lYXN1cmVzL1VuaXRNZWFzdXJlRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/UnitMeasures/UnitMeasureList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVW5pdE1lYXN1cmVzL1VuaXRNZWFzdXJlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/UserProfiles/ChangeAvatarForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlclByb2ZpbGVzL0NoYW5nZUF2YXRhckZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/UserProfiles/ChangePasswordForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlclByb2ZpbGVzL0NoYW5nZVBhc3N3b3JkRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/UserProfiles/UserForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlclByb2ZpbGVzL1VzZXJGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/UserProfiles/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlclByb2ZpbGVzL1VzZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Users/ChangeAvatarForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvQ2hhbmdlQXZhdGFyRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Users/ChangePasswordForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvQ2hhbmdlUGFzc3dvcmRGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Users/UserForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvVXNlckZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Users/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlcnMvVXNlckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/VendorCategories/VendorCategoryForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmVuZG9yQ2F0ZWdvcmllcy9WZW5kb3JDYXRlZ29yeUZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/VendorCategories/VendorCategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmVuZG9yQ2F0ZWdvcmllcy9WZW5kb3JDYXRlZ29yeUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/VendorContacts/VendorContactForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmVuZG9yQ29udGFjdHMvVmVuZG9yQ29udGFjdEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/VendorContacts/VendorContactList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmVuZG9yQ29udGFjdHMvVmVuZG9yQ29udGFjdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/VendorGroups/VendorGroupForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmVuZG9yR3JvdXBzL1ZlbmRvckdyb3VwRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/VendorGroups/VendorGroupList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmVuZG9yR3JvdXBzL1ZlbmRvckdyb3VwTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Vendors/VendorForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmVuZG9ycy9WZW5kb3JGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Vendors/VendorList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmVuZG9ycy9WZW5kb3JMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Warehouses/WarehouseForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2FyZWhvdXNlcy9XYXJlaG91c2VGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/Warehouses/WarehouseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2FyZWhvdXNlcy9XYXJlaG91c2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/biokukesi/Desktop/prime/Asp.Net-Core-Inventory-Order-Management-System/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
